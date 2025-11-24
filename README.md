@@ -4,6 +4,8 @@
 **Purpose:** Base microservice project for the *Citi Compass* portfolio‑reporting/dashboard system.  
 Provides foundation (Spring Boot, REST API, database connectivity, error handling, logging, configuration) on which your microservices will be built.
 
+Demo: https://drive.google.com/file/d/1WRqV0LVgbGJZOpASpK9KudCNrzZFyqlb/view?usp=drive_link
+
 ---
 
 ## Table of Contents  
